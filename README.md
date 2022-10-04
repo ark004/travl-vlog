@@ -2,6 +2,7 @@
 ![mobile view](https://user-images.githubusercontent.com/108901697/186428147-d56d1852-c426-4a52-b31e-ff11b7008b07.JPG)
 
 #How its work
+
  $workon env
  
  $python manage.py makemigrations
