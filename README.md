@@ -9,6 +9,7 @@ Travel agency website:  A Responsive Website for show there package, designation
 
 # Installation
 pip install django
+
 virtualenv
 
 # Mac/Linux
